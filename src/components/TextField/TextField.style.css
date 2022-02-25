@@ -1,0 +1,15 @@
+.TextBoxRoot {
+  text-align: left;
+}
+
+.TextBoxRoot p {
+  margin-bottom: 0;
+}
+
+.TextBoxRoot input {
+  width: 100%;
+}
+
+.TextBoxError {
+  color: #f44336;
+}
